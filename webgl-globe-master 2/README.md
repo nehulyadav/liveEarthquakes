@@ -1,6 +1,4 @@
-![alt tag](https://drive.google.com/a/miamioh.edu/file/d/0B3UPslA_BCzRa21ra0hUMVlJcTg/view?usp=sharing)
-
-![alt tag](http://url/to/img.png)
+![alt tag](https://raw.githubusercontent.com/nehulyadav/liveEarthquakes/webgl-globe-master 2/path/to/img.png))
 
 Simple steps to run:
 
