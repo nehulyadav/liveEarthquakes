@@ -1,0 +1,7 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2016-10-25T20:55:07.590Z,38.5082,-118.4182,15.7,0.9,ml,6,135.99,0.15,,nn,nn00564495,2016-10-25T20:56:22.475Z,"18km E of Hawthorne, Nevada",earthquake,,,,,automatic,nn,nn
+2016-10-25T20:33:17.990Z,33.798,-117.162,1.21,1.29,ml,6,116,0.1493,0.29,ci,ci37511431,2016-10-25T20:37:00.443Z,"2km WSW of Nuevo, CA",earthquake,1.17,2.45,0.386,19,automatic,ci,ci
+2016-10-25T20:24:24.830Z,33.3766667,-116.6756667,13.49,0.9,ml,32,62,0.09876,0.15,ci,ci37511423,2016-10-25T20:27:59.221Z,"11km NNW of Warner Springs, CA",earthquake,0.24,0.48,0.149,25,automatic,ci,ci
+2016-10-25T20:21:47.000Z,63.7846,-149.5979,11.5,1.3,ml,,,,0.9,ak,ak14268199,2016-10-25T20:41:57.951Z,"32km WSW of Healy, Alaska",earthquake,0.3,0.3,,,automatic,ak,ak
+2016-10-25T20:17:54.000Z,60.7734,-151.5497,70.1,1.4,ml,,,,0.43,ak,ak14268197,2016-10-25T20:41:57.066Z,"16km WNW of Nikiski, Alaska",earthquake,1,2,,,automatic,ak,ak
+2016-10-25T20:13:40.090Z,37.5555,-118.8856667,-2.32,0.74,md,11,93,0.05663,0.1,nc,nc72717431,2016-10-25T20:55:58.109Z,"12km SE of Mammoth Lakes, California",earthquake,0.3,31.61,0.105,13,reviewed,nc,nc
